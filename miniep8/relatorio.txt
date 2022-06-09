@@ -14,3 +14,10 @@ Os testes nesse mini EP foram realizados com a lib pytest.
 
 Nesse diretório no git, cada commit será pensado como um "ciclo" 
 de TDD.
+
+Conclusão sobre TDD:
+
+O TDD parece um framework muito interessante para direcionar o 
+desenvolvimento de software para ganhar agilidade e reduzir incidência
+de bugs, contudo, talvez o problema aqui 
+escolhido seja muito simples para ilustrar o uso correto.
