@@ -1,0 +1,16 @@
+Mini EP 8 - Técnicas de Programação 2
+
+Aluna: Julia Leite
+NUSP: 11221797
+
+O problema escolhido foi retirado do site https://dojopuzzles.com/ e 
+se trata de avaliar se um ano dado é bissexto ou não.
+O link do programa se encontra em: https://dojopuzzles.com/problems/ano-bissexto/
+
+Um ano é bissexto se for divisível por 4, mas não divisível por 100, 
+exceto se ele for também divisível por 400.
+
+Os testes nesse mini EP foram realizados com a lib pytest.
+
+Nesse diretório no git, cada commit será pensado como um "ciclo" 
+de TDD.
