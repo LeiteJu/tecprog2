@@ -10,8 +10,8 @@ exceto se ele for tambem divisivel por 400
 # funcao que verifica se o ano e bissexto
 def check (ano):
 
-    # ano divisivel por 4 mas nao por 100
-    if ano % 4 == 0 and ano % 100 != 0:
+    # ano divisivel por 4 mas nao por 100 a menos que o seja por 400
+    if (ano % 4 == 0 and ano % 100 != 0) or ano % 400 == 0:
         return True
 
     return False
