@@ -15,6 +15,8 @@ Os testes nesse mini EP foram realizados com a lib pytest.
 Nesse diretório no git, cada commit será pensado como um "ciclo" 
 de TDD.
 
+Link para o repositório do git: https://github.com/LeiteJu/tecprog2/tree/master/miniep8
+
 Conclusão sobre TDD:
 
 O TDD parece um framework muito interessante para direcionar o 
