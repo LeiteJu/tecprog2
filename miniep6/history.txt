@@ -1,0 +1,9 @@
+MiniEP 6 
+
+Comandos docker utilizados:
+
+docker build . -t miniep:1
+docker container ls -a
+docker container run -p 8080:80 -d miniep:1
+docker container ls -a
+docker ps
